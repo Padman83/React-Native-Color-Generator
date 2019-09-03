@@ -10,7 +10,7 @@ React-Native-Color-Generator.
 ### Design Tool
 * [Adobe XD] (https://www.adobe.com)
 
-### Built With 
+### Language + Frameworks
 * [reactjs.org] (https://reactjs.org)
 * [create-react-app.dev] (https://create-react-app.dev)
 * [expo.io] (https://expo.io)
