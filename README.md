@@ -13,12 +13,11 @@ React-Native-Color-Generator.
 
 * [Adobe XD] (https://www.adobe.com)
 
-### Language + Frameworks
+### Built with
 
-* [reactjs.org] (https://reactjs.org)
-* [create-react-app.dev] (https://create-react-app.dev)
+* [facebook.github.io/react-native] (https://facebook.github.io/react-native/)
 * [expo.io] (https://expo.io)
-* [Adobe XD] (https://www.adobe.com)
+
 
 ## Contact
 
