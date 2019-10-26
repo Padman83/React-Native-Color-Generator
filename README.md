@@ -21,5 +21,5 @@ RN Hex Colour Generator.
 
 ### Project Link
  
-[https://github.com/Padman83/React-Native-Color-Generator]
-[https://snack.expo.io/@padman83/rn-hex-colour]
+* [https://github.com/Padman83/React-Native-Color-Generator]
+* [https://snack.expo.io/@padman83/rn-hex-colour]
