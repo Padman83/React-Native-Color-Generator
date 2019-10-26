@@ -19,7 +19,7 @@ RN Hex Colour Generator.
 * [expo.io] (https://expo.io)
 
 
-## Contact
-
-Project Link: [https://github.com/Padman83/React-Native-Color-Generator]
-Project Link: [https://snack.expo.io/@padman83/rn-hex-colour]
+### Project Link
+ 
+[https://github.com/Padman83/React-Native-Color-Generator]
+[https://snack.expo.io/@padman83/rn-hex-colour]
