@@ -1,9 +1,9 @@
 # About The Project 
 
-React-Native-Color-Generator.
+RN Hex Colour Generator.
 
-![Android Mobile – 1](https://user-images.githubusercontent.com/45048950/64066540-b0aa2700-cc4d-11e9-81fc-8df9911b6024.png) 
-![iPhone X-XS – 1](https://user-images.githubusercontent.com/45048950/64066547-bbfd5280-cc4d-11e9-9154-3eec0ba2b371.png)
+![RN Hex Color@3x](https://user-images.githubusercontent.com/45048950/67622727-7d4fd700-f84f-11e9-8bcc-90ec65727041.png)
+
 
 ### Code Editor
 
@@ -22,3 +22,4 @@ React-Native-Color-Generator.
 ## Contact
 
 Project Link: [https://github.com/Padman83/React-Native-Color-Generator]
+Project Link: [https://snack.expo.io/@padman83/rn-hex-colour]
