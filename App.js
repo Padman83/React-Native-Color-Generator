@@ -28,7 +28,7 @@ export default class App extends Component {
        
         <Button 
           onPress={this.ChangeColorFunction}
-          title="React Native Color Generator" 
+          title="RN Hex Colour" 
         />
       
       </View>
