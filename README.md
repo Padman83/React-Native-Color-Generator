@@ -2,8 +2,7 @@
 
 RN Hex Colour Generator.
 
-![RN Hex Color@3x](https://user-images.githubusercontent.com/45048950/67622727-7d4fd700-f84f-11e9-8bcc-90ec65727041.png)
-
+![RN Hex Color@3x](https://user-images.githubusercontent.com/45048950/69570355-9e484b00-0ffa-11ea-996c-f227a6482ff0.png)
 
 ### Code Editor
 
