@@ -1,14 +1,11 @@
 ![RN Hex Color@3x](https://user-images.githubusercontent.com/45048950/69570355-9e484b00-0ffa-11ea-996c-f227a6482ff0.png)
 
-# 📲 React-Native-Color-Generator
+## 📲 React-Native-Color-Generator
 
-### 💻 System Requirements:
+### 💻 System Requirements + 🎨 Design Tool:
 
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
-
-### 🎨 Design Tool:
-
 * [Adobe XD] (https://www.adobe.com)
 
 ### 🛠️ Built with:
